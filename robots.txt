@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bweisl.github.io/GOP/sitemap.GOP.gz
